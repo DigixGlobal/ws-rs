@@ -12,7 +12,7 @@ version = "0.5.1"
 [dependencies]
 httparse = "*"
 log = "*"
-mio = { git = "https://github.com/ethcore/mio.git", branch = "v0.5.x" }
+mio = { git = "https://github.com/tymat/mio.git", branch = "update-for-freebsd" }
 rand = "*"
 sha1 = "*"
 url = "1.0.0"
